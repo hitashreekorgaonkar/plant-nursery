@@ -1,0 +1,58 @@
+.parallax {
+    /* The image used */
+    background-image: url("https://i.picsum.photos/id/127/4032/2272.jpg?hmac=QFoFT2_eb_DCqjdlj09UFgUHwI_zefDTBdECRz9lO5Q");
+  
+    /* opacity: 0.65; 
+              min-height: 1000px; 
+    min-width: 500px;*/
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+
+  }
+  .scroll {
+    margin-right: 19%;
+    margin-left: 19%;
+    background-color:white; 
+  }
+
+  .lightgreen {
+    color: #588522;
+  }
+  .lightgreen2{
+    background-color: #D7F3C2;
+  }
+
+  .line-height1{
+    line-height: 1em;
+  }
+  
+  .line-height12{
+    line-height: 1.2em;
+  }
+
+  .line-height05{
+    line-height: 0.5em;
+  }
+
+  .line-height04{
+    line-height: 0.4em
+  }
+
+  .font-size15{
+    font-size: 15px;
+  }
+
+
+
+  .moreGallery1 {
+    display: none;
+  }
+
+  .moreGallery2 {
+    display: none;
+  }  
